@@ -1,6 +1,9 @@
 oal, soy @sD4rkDev 👋
+
 me gustan los bots de discord
+
 estoy aprendiendo javascript y paiton XD
+
 busco programadores de juegos o bots B)
 
 <!---
