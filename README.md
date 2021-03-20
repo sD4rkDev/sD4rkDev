@@ -1,6 +1,6 @@
 ## Me presento, soy Dark 🤠
 
-Me gustan los bots de Discord 🤖
+Programo a veces 🤡
 
 Soy un estudiante de informática de España y actualmente estoy aprendiendo JavaScript y Python 🍵 🐍
 
