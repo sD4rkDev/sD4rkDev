@@ -4,7 +4,7 @@ Programo a veces 🤡
 
 Soy un estudiante de informática y actualmente estoy aprendiendo JavaScript y Python 🍵 🐍
 
-Me gustan los videojuegos y bots de Discord, asi que si alguien está interesado puede contactarme por mi Discord 🎮
+Me gustan los videojuegos y hacer bots de Discord, asi que si alguien está interesado pueden hablarme por mis redes sociales 🎮
 <br />
 
    ## Redes sociales
