@@ -16,5 +16,4 @@ Me gustan los videojuegos y bots de Discord, asi que si alguien está interesado
   ## Discord
 
    - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [sd4rkgD#4380](https://discord.gg/P3xmjdx)
-   
    <div>
