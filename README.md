@@ -17,7 +17,7 @@ Me gustan los videojuegos y bots de Discord, asi que si alguien está interesado
 
   ## Contactos
 
-   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [! sD4rk#8699](https://discord.gg/P3xmjdx)
+   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [sd4rkgD#4380](https://discord.gg/P3xmjdx)
    
    <br />
    
