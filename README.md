@@ -21,10 +21,3 @@ Me gustan los videojuegos y bots de Discord, asi que si alguien está interesado
    <br />
    
    <div>
-  <br />
-  <p>
-    <a href="https://discord.gg/P3xmjdx"><img src="https://discord.com/api/guilds/696051750561644696/embed.png?style=banner3" alt="Discord" /></a>
-  </p>
-  </div>
-  
-   <br />
